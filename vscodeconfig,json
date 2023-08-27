@@ -1,0 +1,59 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "git.autofetch": true,
+  "files.autoSaveDelay": 100,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // Aumenta a fonte do terminal
+  "terminal.integrated.fontSize": 14,
+
+  //Configura tamanho e família da fonte para code
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.fontLigatures": true,
+
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignore.Recommendation": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": true,
+
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  // "editor.rulers": [
+  //     80,
+  //     120
+  // ],
+  "liveServer.settings.donotVerifyTags": true,
+
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+  "oneDarkPro.vivid": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.semanticTokenColorCustomizations": {},
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.useLocalIp": true,
+  "git.confirmSync": false,
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {},
+  "files.autoSave": "afterDelay",
+  "material-icon-theme.activeIconPack": "nest",
+
+  "settingsSync.ignoredSettings": [],
+  "settingsSync.ignoredExtensions": [],
+  "window.zoomLevel": -1
+}
